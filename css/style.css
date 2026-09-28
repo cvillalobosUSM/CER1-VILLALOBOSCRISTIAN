@@ -59,3 +59,15 @@ footer i {
 .mascotas-galeria {
     background-color: #FDF6EC;
 }
+.adopcion-titulo {
+    background-color: #EAF2F8;
+}
+.adopcion-formulario {
+    background-color: #FDF6EC;
+}
+.adopcion-imagen {
+    background-color: #FDF6EC;
+}
+.adopcion-imagen img {
+    height: 300px;
+}
