@@ -1,3 +1,18 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+h1{
+    font-weight: 800;
+    color: #264653;
+}
+.logo-header {
+    width: 140px;
+    height: auto;
+}
+.logo-footer {
+    width: 220px;
+    height: auto;
+}
 .justify {
     text-align: justify;
 }
